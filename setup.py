@@ -10,7 +10,7 @@ Classifiers = [
 
 setup(
   name="RequireVPN",
-  version="0.0.1",
+  version="0.0.2",
   description="Python Library To Require VPN Connections",
   long_description=open('README.md').read(),
   long_description_content_type="text/markdown",
